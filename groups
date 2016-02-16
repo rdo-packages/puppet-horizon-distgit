@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-e17bfd2f9744f760c1464acd645d5298fae8f5e6	puppet-horizon-distgit-ptl
+# UUID          Group Name
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
+ba215aebaff8e01e641831fd0ab9161821535102       	puppet-horizon-distgit-core
+e17bfd2f9744f760c1464acd645d5298fae8f5e6        	puppet-horizon-distgit-ptl
+global:Registered-Users		Registered Users
