@@ -22,6 +22,30 @@
       "revId": "ceec0fdebdfa51a81e167abd22bb0409c0254692",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "facab960_8b4d5c75",
+        "filename": "puppet-horizon.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 85
+      },
+      "writtenOn": "2016-09-22T15:52:44Z",
+      "side": 1,
+      "message": "btw typo went in via direct commit\nhttps://review.rdoproject.org/r/gitweb?p\u003dpuppet/puppet-horizon-distgit.git;a\u003dcommitdiff;h\u003d37c2df8aa0e8996d39e4f9dd0b76ade863b82b62;hp\u003de478739da93b5ca122ca15aaa34ce3392d0e69e0\n\nwhich also pushed tarball+srpm by accident, please clean that up.",
+      "parentUuid": "facab960_ab2b0081",
+      "range": {
+        "startLine": 23,
+        "startChar": 33,
+        "endLine": 23,
+        "endChar": 40
+      },
+      "revId": "ceec0fdebdfa51a81e167abd22bb0409c0254692",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
