@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_ab2b0081",
+        "filename": "puppet-horizon.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 85
+      },
+      "writtenOn": "2016-09-22T15:48:52Z",
+      "side": 1,
+      "message": "typo: upsteam\n\nBUT we need to fix this in DLRN, so that tarballs generated match upstream release tarballs to avoid this special case for openstack/puppet-* in stable branches!",
+      "range": {
+        "startLine": 23,
+        "startChar": 33,
+        "endLine": 23,
+        "endChar": 40
+      },
+      "revId": "ceec0fdebdfa51a81e167abd22bb0409c0254692",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
