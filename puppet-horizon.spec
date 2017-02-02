@@ -1,6 +1,6 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-horizon
-Version:        9.4.1
+Version:        9.5.0
 Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Horizon
 License:        Apache-2.0
@@ -44,6 +44,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/horizon/
 
 
 %changelog
+* Thu Feb 02 2017 Alfredo Moralejo <amoralej@redhat.com> 9.5.0-1
+- Update to 9.5.0
+
 * Mon Nov 07 2016 Alfredo Moralejo <amoralej@redhat.com> 9.4.1-1
 - Update to 9.4.1
 
