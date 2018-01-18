@@ -1,6 +1,6 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-horizon
-Version:        9.7.0
+Version:        9.8.0
 Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Horizon
 License:        Apache-2.0
@@ -44,6 +44,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/horizon/
 
 
 %changelog
+* Thu Jan 18 2018 RDO <dev@lists.rdoproject.org> 9.8.0-1
+- Update to 9.8.0
+
 * Tue Nov 21 2017 RDO <dev@lists.rdoproject.org> 9.7.0-1
 - Update to 9.7.0
 
