@@ -1,7 +1,7 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-horizon
-Version:        XXX
-Release:        XXX
+Version:        17.4.0
+Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Horizon
 License:        ASL 2.0
 
@@ -44,5 +44,8 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/horizon/
 
 
 %changelog
+* Tue Sep 29 2020 RDO <dev@lists.rdoproject.org> 17.4.0-1
+- Update to 17.4.0
+
 
 
