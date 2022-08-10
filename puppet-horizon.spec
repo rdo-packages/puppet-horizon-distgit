@@ -25,6 +25,7 @@ BuildRequires:  openstack-macros
 %endif
 
 Requires:       puppet-apache
+Requires:       puppet-concat
 Requires:       puppet-stdlib
 Requires:       puppet-memcached
 Requires:       puppet >= 2.7.0
