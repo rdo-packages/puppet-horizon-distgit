@@ -1,0 +1,8 @@
+Verified+2: Zuul CI <zuul@review.rdoproject.org>
+Workflow+1: Alfredo Moralejo <amoralej@redhat.com>
+Code-Review+2: Alfredo Moralejo <amoralej@redhat.com>
+Submitted-by: Zuul CI <zuul@review.rdoproject.org>
+Submitted-at: Thu, 09 May 2024 07:15:06 +0000
+Reviewed-on: https://review.rdoproject.org/r/c/puppet/puppet-horizon-distgit/+/53161
+Project: puppet/puppet-horizon-distgit
+Branch: refs/heads/zed-rdo
