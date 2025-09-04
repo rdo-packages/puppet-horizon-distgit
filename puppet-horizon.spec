@@ -65,3 +65,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/horizon/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-horizon/commit/36da4215e76cea64b4f2de450a0634a3c431f8ce
